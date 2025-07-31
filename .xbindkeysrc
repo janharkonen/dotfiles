@@ -1,0 +1,7 @@
+# Switch to next tab with Alt+S
+"xdotool key ctrl+Tab"
+    Alt + s
+
+# Switch to previous tab with Alt+W
+"xdotool key ctrl+shift+Tab"
+    Alt + w

@@ -1,3 +1,4 @@
+source ~/.bashrc
 tmux source ~/.tmux.conf
 bind -f ~/.inputrc
 

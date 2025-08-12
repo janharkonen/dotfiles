@@ -1,2 +1,0 @@
-alias z='du -sh .[!.]* * 2>/dev/null'
-alias gitlog='git log --oneline --graph --all'

@@ -1,0 +1,7 @@
+alias z='du -sh .[!.]* * 2>/dev/null'
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+alias gitlog='git log --oneline --graph --all'
+alias bashrc='vim ~/.bashrc;source ~/.bashrc;'
+alias aliases='vim ~/.bash_aliases;source ~/.bashrc;'
